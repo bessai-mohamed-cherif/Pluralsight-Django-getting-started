@@ -1,6 +1,6 @@
 # Pluralsight-Django-getting-started
 
-Simple Django project using Models and Modelforms to Plan and Register meetings
+Simple Django project implemanting the Model-View-Template basics and using Models and Modelforms to Plan and Register meetings
 
 ![alt text](https://i.imgur.com/SSyzJLy.jpg)
 
